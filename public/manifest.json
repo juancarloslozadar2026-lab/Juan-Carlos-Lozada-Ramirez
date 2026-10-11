@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Evaluador SENA GA2 — Desarrollo de Medios Gráficos Visuales (522309)",
+  "short_name": "Evaluador SENA GA2",
+  "version": "2.1.0",
+  "description": "Herramienta para Instructores Virtuales SENA: revisión y calificación de evidencias Guía de Aprendizaje 2 (Programa 522309) con rúbrica y retroalimentación AVA.",
+  "permissions": ["storage", "activeTab", "clipboardWrite", "sidePanel"],
+  "action": {
+    "default_title": "Evaluador SENA GA2 (522309)",
+    "default_popup": "index.html"
+  },
+  "side_panel": {
+    "default_path": "index.html"
+  }
+}
